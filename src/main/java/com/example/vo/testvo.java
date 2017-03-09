@@ -1,7 +1,7 @@
 package com.example.vo;
 
 import org.hibernate.validator.constraints.NotBlank;
-
+ 
 public class testvo {
 	
 	/*@NotBlank(message="sdjkfhkas")*/
