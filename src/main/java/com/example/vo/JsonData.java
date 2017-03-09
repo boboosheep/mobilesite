@@ -3,7 +3,7 @@ package com.example.vo;
 /**
  * 返回JSON数据
  * @author amos
- */
+ */  
 public class JsonData {
 	private int code;
 	private String tip = "";
